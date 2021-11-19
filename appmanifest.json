@@ -1,0 +1,41 @@
+{
+	"name": "Demographic Transitions",
+	"short_name": "Demographic Transitions",
+	"description": "Learn about the Demographic Transition Model (DTM) by playing an interactive game. Play though each of the 5 stages and talk to characters to find out what their lives are like in each respective stage of society.   In this 30- to 45-minute adventure, learners will build mental models for each of the 5 stages of the DTM as they hunt and gather, work in a factory, drive girls to school, trade electronics on a global scale and experience life in a retirement village. ",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
