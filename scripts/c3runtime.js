@@ -5434,6 +5434,7 @@ self.C3_ExpressionFuncs = [
 			return () => (n0.ExpObject() - 0.1);
 		},
 		() => 1500,
+		() => 600,
 		() => 1000,
 		() => "Thumbstick Factory",
 		() => "Down",
@@ -5464,7 +5465,7 @@ self.C3_ExpressionFuncs = [
 		},
 		() => "Simulate Controls4",
 		() => 350,
-		() => 600,
+		() => 700,
 		() => "Factory Items",
 		() => -5,
 		() => "Can",
